@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/tests/__init__.py;C:/Users/bogda/PycharmProjects/laser/tests/test_Divider.py;C:/Users/bogda/PycharmProjects/laser/tests/test_engraving.py;C:/Users/bogda/PycharmProjects/laser/tests/test_EngrCords.py;C:/Users/bogda/PycharmProjects/laser/tests/test_moves.py;C:/Users/bogda/PycharmProjects/laser/tests/test_Validator.py;C:/Users/bogda/PycharmProjects/laser/utils/__init__.py;C:/Users/bogda/PycharmProjects/laser/utils/Divider.py;C:/Users/bogda/PycharmProjects/laser/utils/engraving.py;C:/Users/bogda/PycharmProjects/laser/utils/EngrCords.py;C:/Users/bogda/PycharmProjects/laser/utils/moves.py;C:/Users/bogda/PycharmProjects/laser/utils/plot_file.py;C:/Users/bogda/PycharmProjects/laser/utils/validator.py;C:/Users/bogda/PycharmProjects/laser/main.py;C:/Users/bogda/PycharmProjects/laser/test_pattern.py" />
+  </component>
+</project>
